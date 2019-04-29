@@ -13,6 +13,7 @@ git remote set-url origin git@github.com:Danzed11/w1d1.git
 ^^ To reassign origin path
 
 * [week_1](/week_1)
+<<<<<<< HEAD
   * [day_1](/week_1/day_1)
 
 ```
@@ -22,3 +23,6 @@ function whatToDoForLunch(hungry, availableTime) {
   console.log("availableTime is", availableTime);
 }
 ```
+=======
+  * [day_1](/week_1/day_1)
+>>>>>>> 1a850fd9a8e3d5e76774f349a12472527025b896
