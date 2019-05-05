@@ -1,0 +1,12 @@
+{
+  "name": "day5_exercises",
+  "version": "1.0.0",
+  "description": "JSON",
+  "main": "sorting-app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "myScript": "node ./sorting-app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

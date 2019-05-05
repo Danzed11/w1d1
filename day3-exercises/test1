@@ -1,0 +1,8 @@
+- Lists all the unique characters in a string
+
+- Loop through the string
+
+- Counts how many times those characters appear
+
+- Return unique characters and times those characters appear
+as an object.
